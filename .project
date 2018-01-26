@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Useful-info-link</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>useful_link.txt</name>
+			<type>1</type>
+			<location>C:/Users/QL84514/Desktop/useful_link.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
