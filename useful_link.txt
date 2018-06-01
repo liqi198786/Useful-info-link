@@ -13,3 +13,8 @@ vamei
 python
 
 你是如何自学 Python 的？zhihu
+
+about c++11 & there are other useful links for sub-titles
+https://blog.csdn.net/zdy0_2004/article/details/69934828
+
+
