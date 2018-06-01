@@ -6,6 +6,9 @@ https://www.cnblogs.com/hoys/archive/2012/08/19/2646377.html
 chensuo
 http://www.cnblogs.com/Solstice/archive/2011/02/12/1952773.html
 
+design patterns
+https://sourcemaking.com/design_patterns/prototype
+
 vamei
 python
 
