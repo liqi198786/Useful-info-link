@@ -19,3 +19,6 @@ https://blog.csdn.net/zdy0_2004/article/details/69934828
 
 explain very clear about lvalue rvalue..
 http://www.cnblogs.com/zpcdbky/p/5275959.html
+
+many examples about 重定向
+http://xstarcd.github.io/wiki/shell/exec_redirect.html
