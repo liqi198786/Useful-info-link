@@ -22,3 +22,6 @@ http://www.cnblogs.com/zpcdbky/p/5275959.html
 
 many examples about 重定向
 http://xstarcd.github.io/wiki/shell/exec_redirect.html
+
+examples of c11 syc&asyc programing
+https://blog.csdn.net/phiall/article/details/52385165
