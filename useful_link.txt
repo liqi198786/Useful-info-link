@@ -26,5 +26,5 @@ http://xstarcd.github.io/wiki/shell/exec_redirect.html
 examples of c11 syc&asyc(并行编程) programing
 https://blog.csdn.net/phiall/article/details/52385165
 
-very
+very clear about yum&rpm
 http://www.mamicode.com/info-detail-1499701.html
