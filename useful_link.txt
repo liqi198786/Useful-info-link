@@ -28,3 +28,6 @@ https://blog.csdn.net/phiall/article/details/52385165
 
 very clear about yum&rpm
 http://www.mamicode.com/info-detail-1499701.html
+
+about shell var
+https://www.cnblogs.com/HKUI/p/6423918.html
