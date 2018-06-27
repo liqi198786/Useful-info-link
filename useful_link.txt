@@ -31,3 +31,6 @@ http://www.mamicode.com/info-detail-1499701.html
 
 about shell var
 https://www.cnblogs.com/HKUI/p/6423918.html
+
+mysql
+https://www.cnblogs.com/geaozhang/p/6834780.html
