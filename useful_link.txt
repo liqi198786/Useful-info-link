@@ -37,3 +37,6 @@ https://www.cnblogs.com/geaozhang/p/6834780.html
 
 常用面试知识，数据库，算法，并行。。
 https://hit-alibaba.github.io/interview/basic/arch/Concurrency.html
+
+shell语句出错set设置
+https://blog.csdn.net/drbinzhao/article/details/8281645
