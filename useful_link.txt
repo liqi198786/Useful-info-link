@@ -44,3 +44,5 @@ https://blog.csdn.net/drbinzhao/article/details/8281645
 极客学院 shell编写
 http://wiki.jikexueyuan.com/project/linux-command/chap23.html
 
+另一个学习python
+http://wiki.jikexueyuan.com/project/start-learning-python/107.html
