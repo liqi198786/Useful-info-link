@@ -49,3 +49,6 @@ http://wiki.jikexueyuan.com/project/start-learning-python/107.html
 
 linux tool
 http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/objdump.html
+
+使用符号表调试release程序
+http://www.voidcn.com/article/p-shzrjbdv-bdu.html
