@@ -46,3 +46,6 @@ http://wiki.jikexueyuan.com/project/linux-command/chap23.html
 
 另一个学习python
 http://wiki.jikexueyuan.com/project/start-learning-python/107.html
+
+linux tool
+http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/objdump.html
