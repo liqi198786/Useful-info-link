@@ -30,3 +30,5 @@ info sources
 gdb 查找动态库方法(example:core)
 https://blog.csdn.net/liweigao01/article/details/67654415
 
+gdb简单运行参数和内部命令
+https://www.cnblogs.com/rosesmall/archive/2012/04/10/2440514.html
