@@ -27,6 +27,6 @@ show directories----------------------------------show the source file finding p
 set directories path-list
 info sources
 
-
-
+gdb 查找动态库方法(example:core)
+https://blog.csdn.net/liweigao01/article/details/67654415
 
