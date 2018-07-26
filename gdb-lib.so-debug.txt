@@ -16,9 +16,9 @@ info shared
 
 http://visualgdb.com/gdbreference/commands/sharedlibrary
 set auto-solib-add off
-sharedlibrary
+sharedlibrary ---------------- load the symbols manually using the sharedlibrary command.
 info shared
-sharedlibrary libTest  -------a specific lib
+sharedlibrary libTest  -------load a specific lib
 
 
 set source file dir
