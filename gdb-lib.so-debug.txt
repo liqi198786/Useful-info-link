@@ -1,0 +1,32 @@
+
+gdb 调试动态库
+gdb 继续传信号给被调试程序
+https://blog.csdn.net/littlefang/article/details/6223289
+
+GDB 符号表搜索路径顺序
+http://ju.outofmemory.cn/entry/17451
+
+
+http://visualgdb.com/gdbreference/commands/set_stop-on-solib-events
+set stop-on-solib-events 0
+set stop-on-solib-events 1  -----------------stop when loading or unloading dynamic lib
+show stop-on-solib-events
+info shared
+
+
+http://visualgdb.com/gdbreference/commands/sharedlibrary
+set auto-solib-add off
+sharedlibrary
+info shared
+sharedlibrary libTest  -------a specific lib
+
+
+set source file dir
+https://www-zeuthen.desy.de/unix/unixguide/infohtml/gdb/Source-Path.html
+show directories----------------------------------show the source file finding paths
+set directories path-list
+info sources
+
+
+
+
