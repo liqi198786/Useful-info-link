@@ -32,3 +32,38 @@ https://blog.csdn.net/liweigao01/article/details/67654415
 
 gdb简单运行参数和内部命令
 https://www.cnblogs.com/rosesmall/archive/2012/04/10/2440514.html
+
+http://ju.outofmemory.cn/entry/17451
+你可以设置全局调试信息目录的名称，并查看当前GDB所使用的名称。
+set debug-file-directory directory
+将directory设置为GDB搜索单独调试信息文件的目录。
+
+show debug-file-directory
+显示搜索单独调试信息文件的目录。
+
+
+对于这种符号表与二进程序分离的程序,该如何调试呢? 先看下例:   [local]$ gdb bin/local_agent_server 
+对于这种符号表与二进程序,可以在gdb 启动时,通过 –s 指定符号表文件来解决. 如下例,通过 –s 指定debug/local_agent_server.debug 后, gdb 调试时可以看到符号表了.
+
+如果是这种符号表与二进程序分离的程序进行所产生的 core ,可以通过如下方式调试:
+gdb -c core.1234 -e bin/local_agent_server -s debug/local_agent_server.debug
+其中：
+-c 指定core文件
+-e 指定binary，用线上的binary即可
+-s 指定符号表，也就是我们新生成的符号表
+
+除了通过 –s 指定 debuginfo 文件外,还可以将 .debug 目录复制到可执行程序所在的目录或者将 local_agent_server.debug 复制到可执行程序所在的目录.
+
+尝试用 set debug-file-directory 方式来设置 debug 路径,好像不生效.
+
+如果二进制程序所依赖的动态库是符号表等调试信息与动态库二进制分离的,那又该如何让 gdb 加载这些动态库的符号表呢?
+3.1.1   可执行程序运行时,依赖的动态库是通过 rpm 包安装的情况
+这种比较简单,只要将 debuginfo 的 rpm 包将通过 rpm 安装即可,因为.debug 目录缺省会安装在 动态库所在的目录下. 下面的 anet 库的rpm 包解压后,可以清楚的看到这一点.
+[admin@s002182.cm6 tmp]$ rpm2cpio anet-debuginfo-1.3.2-rc_2.x86_64.rpm |cpio -idv
+
+
+
+
+
+
+
