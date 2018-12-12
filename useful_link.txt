@@ -1,3 +1,6 @@
+C++ FQA
+http://www.cs.technion.ac.il/users/yechiel/c++-faq/named-parameter-idiom.html
+
 tcp状态
 https://blog.csdn.net/u012503786/article/details/78647661
 
