@@ -1,3 +1,6 @@
+ROS CMAKE
+https://www.cnblogs.com/wanghuixi/p/7044487.html
+
 C++ FQA
 http://www.cs.technion.ac.il/users/yechiel/c++-faq/named-parameter-idiom.html
 
