@@ -75,3 +75,6 @@ https://linux.cn/article-10051-1.html
 
 深度学习基础系列文章
 https://www.zybuluo.com/hanbingtao/note/433855
+
+设计模式
+https://blog.csdn.net/yinweitao12/article/details/42085673
