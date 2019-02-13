@@ -10,7 +10,6 @@ https://blog.csdn.net/u012503786/article/details/78647661
 c++
 https://zh.cppreference.com/w/cpp/experimental
 
-
 signal-relative
 https://www.cnblogs.com/hoys/archive/2012/08/19/2646377.html
 
@@ -57,6 +56,7 @@ http://wiki.jikexueyuan.com/project/linux-command/chap23.html
 
 另一个学习python
 http://wiki.jikexueyuan.com/project/start-learning-python/107.html
+https://www.python-course.eu/python3_execute_script.php
 
 linux tool
 http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/objdump.html
