@@ -78,3 +78,7 @@ https://www.zybuluo.com/hanbingtao/note/433855
 
 设计模式
 https://blog.csdn.net/yinweitao12/article/details/42085673
+
+架构
+http://www.importnew.com/26440.html
+http://www.importnew.com/28367.html
